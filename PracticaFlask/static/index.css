@@ -1,0 +1,95 @@
+body{
+
+    background-color: black;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+
+
+
+.div{
+
+    background-color: rgb(255, 255, 255, 0.1);
+
+    border: 2px solid white;
+
+    border-radius: 1%;
+
+    height: 300px;
+
+    width: 50%;
+
+    margin-left: 25%;
+
+    margin-top: 15%;
+
+    padding: 20px;
+
+}
+
+
+
+h1{
+
+    color: white;
+
+    width: 90%;
+
+    margin-left: 5%;
+
+    text-align: center;
+
+}
+
+
+
+form{
+
+    width: 40%;
+
+    margin-left: 30%;
+
+    margin-top: 5%;
+
+}
+
+
+
+button{
+
+    margin-left: 20%;
+
+    margin-top: 5%;
+
+    width: 60%;
+
+}
+
+.error{
+
+
+
+    margin-left: 20%;
+
+
+
+    margin-top: 2.5%;
+
+
+
+    width: 60%;
+
+
+
+    color: red;
+
+
+
+    text-align: center;
+
+
+
+}

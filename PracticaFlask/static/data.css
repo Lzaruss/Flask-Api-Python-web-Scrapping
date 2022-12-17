@@ -1,0 +1,39 @@
+body{
+    background-color: #212529;
+}
+h1{
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 1%;
+    text-shadow: 4px 4px 10px rgba(255,255,255,0.66);
+}
+.table{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 1%;
+}
+p {
+color: white;
+width: 60%;
+margin-left: 20%;
+margin-top: 2%;
+margin-bottom: 2%;
+font-size: large;
+text-align: justify;
+text-justify: inherit;
+}
+
+img{
+width: 20%;
+margin-left: 40%;
+margin-top: 2%;
+margin-bottom: 5%;
+}
+
+button{
+    margin-left: 85%;
+    width: 10%;
+    position: absolute;
+}
